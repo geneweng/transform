@@ -1,7 +1,5 @@
 ---
-title: "转换：共性，形式，及机制"
-author: ""
-date: "2026年4月"
+numbersections: false
 documentclass: book
 classoption:
   - openany
@@ -11,7 +9,6 @@ CJKsansfont: "PingFang SC"
 mainfont: "Times New Roman"
 geometry: "a4paper, top=3cm, bottom=3cm, left=2.5cm, right=2.5cm"
 linestretch: 1.5
-toc: true
 toc-depth: 1
 header-includes:
   - \usepackage{fancyhdr}
@@ -24,9 +21,9 @@ header-includes:
   - |
     \usepackage{titlesec}
     \titleformat{\chapter}[display]
-      {\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
+      {\normalfont\huge\bfseries}{}{0pt}{\Huge}
     \titlespacing*{\chapter}{0pt}{50pt}{40pt}
-  - \setcounter{secnumdepth}{0}
+  - \setcounter{secnumdepth}{-1}
   - \setcounter{tocdepth}{1}
 ---
 
@@ -40,12 +37,19 @@ header-includes:
 
 {\fontsize{24}{30}\selectfont 共性，形式，及机制}
 
+\vspace{2cm}
+
+{\large 人类文明如何组织世界、重写世界、\\并在重写中获取力量的方法论}
+
 \vspace{3cm}
 
 {\Large 2026年4月}
 
 \vspace{\fill}
 \end{center}
+\newpage
+
+\tableofcontents
 \newpage
 
 \thispagestyle{empty}

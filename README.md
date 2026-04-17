@@ -64,7 +64,7 @@
 ## 阅读方式
 
 - **在线阅读** — 打开 [index.html](index.html) 或直接浏览 `chapters/` 目录中的 Markdown 文件
-- **PDF 下载** — [转换_共性形式及机制.pdf](转换_共性形式及机制.pdf)（120页，A4）
+- **PDF 下载** — [转换_共性形式及机制.pdf](转换_共性形式及机制.pdf)（117页，A4）
 - **Markdown 源文件** — [`chapters/`](chapters/) 目录
 
 ## 编辑审阅与事实核查
@@ -80,7 +80,7 @@
 |------|------|
 | 章节数 | 17（导论 + 15章 + 结语） |
 | 总字数 | 约 92,000 中文字 |
-| PDF 页数 | 120 |
+| PDF 页数 | 117 |
 | 引用来源 | Stanford Encyclopedia of Philosophy, OpenAI, NVIDIA, Genome.gov, Britannica 等 |
 
 ## 参考文献
