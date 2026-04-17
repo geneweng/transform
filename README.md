@@ -2,6 +2,10 @@
 
 **人类文明如何组织世界、重写世界、并在重写中获取力量的方法论**
 
+> *从一种形式到另一种形式的转换，不是游戏，是杠杆。*
+>
+> *Transformation from one form to another is not a game—it is a lever.*
+
 ---
 
 ## 关于本书
